@@ -1,0 +1,2045 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1c4ef904f">
+    <name type="corporate">
+         <namePart>United States Government Publishing Office</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+         <role>
+              <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+              <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>National Archives and Records Administration</namePart>
+         <namePart>Office of the Federal Register</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">author</roleTerm>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+         <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+         <collectionCode>LSA</collectionCode>
+         <category>Regulatory Information</category>
+         <waisDatabaseName>2024_lsa</waisDatabaseName>
+         <branch>executive</branch>
+         <dateIngested>2024-02-15</dateIngested>
+    </extension>
+    <originInfo>
+         <publisher>U.S. Government Publishing Office</publisher>
+         <dateIssued encoding="w3cdtf">2024-01-31</dateIssued>
+         <issuance>continuing</issuance>
+         <frequency authority="marcfrequency">monthly</frequency>
+    </originInfo>
+    <physicalDescription>
+         <note type="source content type">deposited</note>
+         <digitalOrigin>born digital</digitalOrigin>
+         <extent>82 p.</extent>
+    </physicalDescription>
+    <classification authority="sudocs">AE 2.106/2:</classification>
+    <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01</identifier>
+    <identifier type="local">P0b002ee1c4ef904f</identifier>
+    <identifier type="former package identifier">24janlsa</identifier>
+    <recordInfo>
+         <recordContentSource authority="marcorg">DGPO</recordContentSource>
+         <recordCreationDate encoding="w3cdtf">2024-02-15</recordCreationDate>
+         <recordChangeDate encoding="w3cdtf">2024-02-15</recordChangeDate>
+         <recordIdentifier source="DGPO">LSA-2024-01</recordIdentifier>
+         <recordOrigin>machine generated</recordOrigin>
+         <languageOfCataloging>
+              <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="GPO scope determination">fdlp</accessCondition>
+    <extension>
+         <docClass>LSAMONTHLY</docClass>
+         <accessId>LSA-2024-01</accessId>
+    </extension>
+    <titleInfo>
+         <title>List of CFR Sections Affected (LSA), January 2024</title>
+    </titleInfo>
+    <location>
+         <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01</url>
+         <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01.pdf</url>
+    </location>
+    <identifier type="preferred citation">
+                    LSA, January, 2024;
+                </identifier>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-pg1" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-pg1/mods.xml">
+         <titleInfo>
+              <title>List of CFR Sections Affected</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-pg1.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb21c</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-pg1.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb336</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-pg1</identifier>
+         <identifier type="former granule identifier">24janlsa-1</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-pg1</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-pg1.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-pg1.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>1</start>
+                   <end>3</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	List of CFR Sections Affected;     
+            	
+                        LSA, January, 2024, Title </searchTitle>
+              <granuleClass>FRONTMATTER</granuleClass>
+              <accessId>LSA-2024-01-pg1</accessId>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title1" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title1/mods.xml">
+         <titleInfo>
+              <title>Title 1 - General Provisions</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title1.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb21d</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title1.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb337</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title1</identifier>
+         <identifier type="former granule identifier">24janlsa-2</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 1</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title1</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title1.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title1.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>5</start>
+                   <end>5</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 1 - General Provisions;     
+            	
+                        LSA, January, 2024, Title 1</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title1</accessId>
+              <titleNumber>1</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title2" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title2/mods.xml">
+         <titleInfo>
+              <title>Title 2 - Grants and Agreements</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title2.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb21e</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title2.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb338</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title2</identifier>
+         <identifier type="former granule identifier">24janlsa-3</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 2</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title2</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title2.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title2.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>5</start>
+                   <end>5</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 2 - Grants and Agreements;     
+            	
+                        LSA, January, 2024, Title 2</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title2</accessId>
+              <titleNumber>2</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title3" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title3/mods.xml">
+         <titleInfo>
+              <title>Title 3 - The President</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title3.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb21f</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title3.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb339</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title3</identifier>
+         <identifier type="former granule identifier">24janlsa-4</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 3</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title3</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title3.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title3.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>5</start>
+                   <end>5</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 3 - The President;     
+            	
+                        LSA, January, 2024, Title 3</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title3</accessId>
+              <titleNumber>3</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title4" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title4/mods.xml">
+         <titleInfo>
+              <title>Title 4 - Accounts</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title4.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb220</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title4.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb33a</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title4</identifier>
+         <identifier type="former granule identifier">24janlsa-5</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 4</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title4</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title4.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title4.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>5</start>
+                   <end>5</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 4 - Accounts;     
+            	
+                        LSA, January, 2024, Title 4</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title4</accessId>
+              <titleNumber>4</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title5" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title5/mods.xml">
+         <titleInfo>
+              <title>Title 5 - Administrative Personnel</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title5.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb221</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title5.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb33b</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title5</identifier>
+         <identifier type="former granule identifier">24janlsa-6</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 5</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title5</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title5.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title5.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>5</start>
+                   <end>6</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 5 - Administrative Personnel;     
+            	
+                        LSA, January, 2024, Title 5</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title5</accessId>
+              <titleNumber>5</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title6" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title6/mods.xml">
+         <titleInfo>
+              <title>Title 6 - Domestic Security</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title6.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb222</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title6.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb33c</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title6</identifier>
+         <identifier type="former granule identifier">24janlsa-7</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 6</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title6</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title6.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title6.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>6</start>
+                   <end>6</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 6 - Domestic Security;     
+            	
+                        LSA, January, 2024, Title 6</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title6</accessId>
+              <titleNumber>6</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title7" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title7/mods.xml">
+         <titleInfo>
+              <title>Title 7 - Agriculture</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title7.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb223</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title7.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb373</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title7</identifier>
+         <identifier type="former granule identifier">24janlsa-8</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 7</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title7</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title7.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title7.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>6</start>
+                   <end>6</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 7 - Agriculture;     
+            	
+                        LSA, January, 2024, Title 7</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title7</accessId>
+              <titleNumber>7</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title8" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title8/mods.xml">
+         <titleInfo>
+              <title>Title 8 - Aliens and Nationality</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title8.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb224</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title8.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb374</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title8</identifier>
+         <identifier type="former granule identifier">24janlsa-9</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 8</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title8</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title8.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title8.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>6</start>
+                   <end>7</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 8 - Aliens and Nationality;     
+            	
+                        LSA, January, 2024, Title 8</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title8</accessId>
+              <titleNumber>8</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title9" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title9/mods.xml">
+         <titleInfo>
+              <title>Title 9 - Animals and Animal Products</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title9.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb225</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title9.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb375</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title9</identifier>
+         <identifier type="former granule identifier">24janlsa-10</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 9</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title9</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title9.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title9.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>7</start>
+                   <end>7</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 9 - Animals and Animal Products;     
+            	
+                        LSA, January, 2024, Title 9</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title9</accessId>
+              <titleNumber>9</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title10" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title10/mods.xml">
+         <titleInfo>
+              <title>Title 10 - Energy</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title10.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb274</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title10.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb376</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title10</identifier>
+         <identifier type="former granule identifier">24janlsa-11</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 10</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title10</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title10.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title10.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>7</start>
+                   <end>7</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 10 - Energy;     
+            	
+                        LSA, January, 2024, Title 10</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title10</accessId>
+              <titleNumber>10</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title11" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title11/mods.xml">
+         <titleInfo>
+              <title>Title 11 - Federal Elections</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title11.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb275</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title11.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb377</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title11</identifier>
+         <identifier type="former granule identifier">24janlsa-12</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 11</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title11</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title11.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title11.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>7</start>
+                   <end>9</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 11 - Federal Elections;     
+            	
+                        LSA, January, 2024, Title 11</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title11</accessId>
+              <titleNumber>11</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title12" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title12/mods.xml">
+         <titleInfo>
+              <title>Title 12 - Banks and Banking</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title12.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb276</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title12.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb378</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title12</identifier>
+         <identifier type="former granule identifier">24janlsa-13</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 12</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title12</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title12.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title12.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>9</start>
+                   <end>10</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 12 - Banks and Banking;     
+            	
+                        LSA, January, 2024, Title 12</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title12</accessId>
+              <titleNumber>12</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title13" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title13/mods.xml">
+         <titleInfo>
+              <title>Title 13 - Business Credit and Assistance</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title13.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb277</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title13.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb379</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title13</identifier>
+         <identifier type="former granule identifier">24janlsa-14</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 13</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title13</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title13.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title13.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>10</start>
+                   <end>10</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 13 - Business Credit and Assistance;     
+            	
+                        LSA, January, 2024, Title 13</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title13</accessId>
+              <titleNumber>13</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title14" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title14/mods.xml">
+         <titleInfo>
+              <title>Title 14 - Aeronautics and Space</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title14.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb278</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title14.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb37a</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title14</identifier>
+         <identifier type="former granule identifier">24janlsa-15</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 14</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title14</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title14.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title14.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>10</start>
+                   <end>11</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 14 - Aeronautics and Space;     
+            	
+                        LSA, January, 2024, Title 14</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title14</accessId>
+              <titleNumber>14</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title15" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title15/mods.xml">
+         <titleInfo>
+              <title>Title 15 - Commerce and Foreign Trade</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title15.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb279</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title15.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb37b</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title15</identifier>
+         <identifier type="former granule identifier">24janlsa-16</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 15</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title15</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title15.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title15.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>11</start>
+                   <end>11</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 15 - Commerce and Foreign Trade;     
+            	
+                        LSA, January, 2024, Title 15</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title15</accessId>
+              <titleNumber>15</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title16" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title16/mods.xml">
+         <titleInfo>
+              <title>Title 16 - Commercial Practices</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title16.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb27a</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title16.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb37c</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title16</identifier>
+         <identifier type="former granule identifier">24janlsa-17</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 16</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title16</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title16.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title16.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>11</start>
+                   <end>11</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 16 - Commercial Practices;     
+            	
+                        LSA, January, 2024, Title 16</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title16</accessId>
+              <titleNumber>16</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title17" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title17/mods.xml">
+         <titleInfo>
+              <title>Title 17 - Commodity and Securities Exchanges</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title17.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb27b</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title17.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb392</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title17</identifier>
+         <identifier type="former granule identifier">24janlsa-18</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 17</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title17</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title17.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title17.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>13</start>
+                   <end>15</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 17 - Commodity and Securities Exchanges;     
+            	
+                        LSA, January, 2024, Title 17</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title17</accessId>
+              <titleNumber>17</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title18" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title18/mods.xml">
+         <titleInfo>
+              <title>Title 18 - Conservation of Power and Water Resources</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title18.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb27c</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title18.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb393</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title18</identifier>
+         <identifier type="former granule identifier">24janlsa-19</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 18</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title18</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title18.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title18.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>15</start>
+                   <end>16</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 18 - Conservation of Power and Water Resources;     
+            	
+                        LSA, January, 2024, Title 18</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title18</accessId>
+              <titleNumber>18</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title19" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title19/mods.xml">
+         <titleInfo>
+              <title>Title 19 - Customs Duties</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title19.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb27d</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title19.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb394</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title19</identifier>
+         <identifier type="former granule identifier">24janlsa-20</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 19</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title19</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title19.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title19.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>6 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>16</start>
+                   <end>21</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 19 - Customs Duties;     
+            	
+                        LSA, January, 2024, Title 19</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title19</accessId>
+              <titleNumber>19</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title20" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title20/mods.xml">
+         <titleInfo>
+              <title>Title 20 - Employees&apos; Benefits</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title20.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d1</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title20.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb395</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title20</identifier>
+         <identifier type="former granule identifier">24janlsa-21</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 20</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title20</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title20.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title20.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>21</start>
+                   <end>23</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 20 - Employees&apos; Benefits;     
+            	
+                        LSA, January, 2024, Title 20</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title20</accessId>
+              <titleNumber>20</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title21" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title21/mods.xml">
+         <titleInfo>
+              <title>Title 21 - Food and Drugs</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title21.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d2</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title21.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb396</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title21</identifier>
+         <identifier type="former granule identifier">24janlsa-22</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 21</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title21</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title21.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title21.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>5 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>23</start>
+                   <end>27</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 21 - Food and Drugs;     
+            	
+                        LSA, January, 2024, Title 21</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title21</accessId>
+              <titleNumber>21</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title22" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title22/mods.xml">
+         <titleInfo>
+              <title>Title 22 - Foreign Relations</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title22.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d3</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title22.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb397</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title22</identifier>
+         <identifier type="former granule identifier">24janlsa-23</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 22</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title22</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title22.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title22.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>27</start>
+                   <end>27</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 22 - Foreign Relations;     
+            	
+                        LSA, January, 2024, Title 22</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title22</accessId>
+              <titleNumber>22</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title23" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title23/mods.xml">
+         <titleInfo>
+              <title>Title 23 - Highways</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title23.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d4</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title23.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb398</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title23</identifier>
+         <identifier type="former granule identifier">24janlsa-24</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 23</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title23</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title23.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title23.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>27</start>
+                   <end>28</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 23 - Highways;     
+            	
+                        LSA, January, 2024, Title 23</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title23</accessId>
+              <titleNumber>23</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title24" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title24/mods.xml">
+         <titleInfo>
+              <title>Title 24 - Housing and Urban Development</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title24.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d5</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title24.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb399</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title24</identifier>
+         <identifier type="former granule identifier">24janlsa-25</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 24</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title24</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title24.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title24.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>28</start>
+                   <end>29</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 24 - Housing and Urban Development;     
+            	
+                        LSA, January, 2024, Title 24</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title24</accessId>
+              <titleNumber>24</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title25" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title25/mods.xml">
+         <titleInfo>
+              <title>Title 25 - Indians</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title25.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d6</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title25.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb39a</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title25</identifier>
+         <identifier type="former granule identifier">24janlsa-26</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 25</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title25</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title25.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title25.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>29</start>
+                   <end>30</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 25 - Indians;     
+            	
+                        LSA, January, 2024, Title 25</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title25</accessId>
+              <titleNumber>25</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title26" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title26/mods.xml">
+         <titleInfo>
+              <title>Title 26 - Internal Revenue</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title26.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d7</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title26.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb39b</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title26</identifier>
+         <identifier type="former granule identifier">24janlsa-27</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 26</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title26</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title26.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title26.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>4 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>30</start>
+                   <end>33</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 26 - Internal Revenue;     
+            	
+                        LSA, January, 2024, Title 26</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title26</accessId>
+              <titleNumber>26</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title27" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title27/mods.xml">
+         <titleInfo>
+              <title>Title 27 - Alcohol, Tobacco Products and Firearms</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title27.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d8</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title27.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3ae</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title27</identifier>
+         <identifier type="former granule identifier">24janlsa-28</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 27</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title27</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title27.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title27.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>33</start>
+                   <end>33</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 27 - Alcohol, Tobacco Products and Firearms;     
+            	
+                        LSA, January, 2024, Title 27</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title27</accessId>
+              <titleNumber>27</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title28" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title28/mods.xml">
+         <titleInfo>
+              <title>Title 28 - Judicial Administration</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title28.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2d9</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title28.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3af</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title28</identifier>
+         <identifier type="former granule identifier">24janlsa-29</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 28</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title28</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title28.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title28.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>35</start>
+                   <end>35</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 28 - Judicial Administration;     
+            	
+                        LSA, January, 2024, Title 28</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title28</accessId>
+              <titleNumber>28</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title29" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title29/mods.xml">
+         <titleInfo>
+              <title>Title 29 - Labor</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title29.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb2da</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title29.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b0</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title29</identifier>
+         <identifier type="former granule identifier">24janlsa-30</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 29</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title29</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title29.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title29.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>35</start>
+                   <end>37</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 29 - Labor;     
+            	
+                        LSA, January, 2024, Title 29</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title29</accessId>
+              <titleNumber>29</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title30" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title30/mods.xml">
+         <titleInfo>
+              <title>Title 30 - Mineral Resources</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title30.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30a</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title30.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b1</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title30</identifier>
+         <identifier type="former granule identifier">24janlsa-31</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 30</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title30</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title30.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title30.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>37</start>
+                   <end>38</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 30 - Mineral Resources;     
+            	
+                        LSA, January, 2024, Title 30</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title30</accessId>
+              <titleNumber>30</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title31" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title31/mods.xml">
+         <titleInfo>
+              <title>Title 31 - Money and Finance: Treasury</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title31.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30b</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title31.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b2</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title31</identifier>
+         <identifier type="former granule identifier">24janlsa-32</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 31</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title31</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title31.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title31.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>38</start>
+                   <end>39</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 31 - Money and Finance: Treasury;     
+            	
+                        LSA, January, 2024, Title 31</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title31</accessId>
+              <titleNumber>31</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title32" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title32/mods.xml">
+         <titleInfo>
+              <title>Title 32 - National Defense</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title32.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30c</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title32.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b3</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title32</identifier>
+         <identifier type="former granule identifier">24janlsa-33</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 32</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title32</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title32.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title32.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>39</start>
+                   <end>39</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 32 - National Defense;     
+            	
+                        LSA, January, 2024, Title 32</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title32</accessId>
+              <titleNumber>32</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title33" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title33/mods.xml">
+         <titleInfo>
+              <title>Title 33 - Navigation and Navigable Waters</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title33.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30d</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title33.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b4</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title33</identifier>
+         <identifier type="former granule identifier">24janlsa-34</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 33</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title33</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title33.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title33.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>4 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>39</start>
+                   <end>42</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 33 - Navigation and Navigable Waters;     
+            	
+                        LSA, January, 2024, Title 33</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title33</accessId>
+              <titleNumber>33</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title34" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title34/mods.xml">
+         <titleInfo>
+              <title>Title 34 - Education</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title34.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30e</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title34.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b5</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title34</identifier>
+         <identifier type="former granule identifier">24janlsa-35</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 34</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title34</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title34.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title34.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>42</start>
+                   <end>43</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 34 - Education;     
+            	
+                        LSA, January, 2024, Title 34</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title34</accessId>
+              <titleNumber>34</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title35" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title35/mods.xml">
+         <titleInfo>
+              <title>Title 35 - [Reserved]</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title35.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb30f</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title35.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b6</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title35</identifier>
+         <identifier type="former granule identifier">24janlsa-36</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 35</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title35</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title35.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title35.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>43</start>
+                   <end>43</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 35 - [Reserved];     
+            	
+                        LSA, January, 2024, Title 35</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title35</accessId>
+              <titleNumber>35</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title36" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title36/mods.xml">
+         <titleInfo>
+              <title>Title 36 - Parks, Forests, and Public Property</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title36.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb310</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title36.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb3b7</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title36</identifier>
+         <identifier type="former granule identifier">24janlsa-37</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 36</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title36</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title36.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title36.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>43</start>
+                   <end>44</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 36 - Parks, Forests, and Public Property;     
+            	
+                        LSA, January, 2024, Title 36</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title36</accessId>
+              <titleNumber>36</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title37" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title37/mods.xml">
+         <titleInfo>
+              <title>Title 37 - Patents, Trademarks, and Copyrights</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title37.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb311</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title37.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb403</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title37</identifier>
+         <identifier type="former granule identifier">24janlsa-38</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 37</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title37</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title37.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title37.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>44</start>
+                   <end>45</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 37 - Patents, Trademarks, and Copyrights;     
+            	
+                        LSA, January, 2024, Title 37</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title37</accessId>
+              <titleNumber>37</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title38" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title38/mods.xml">
+         <titleInfo>
+              <title>Title 38 - Pensions, Bonuses, and Veterans&apos; Relief</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title38.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb313</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title38.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb404</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title38</identifier>
+         <identifier type="former granule identifier">24janlsa-39</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 38</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title38</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title38.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title38.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>45</start>
+                   <end>47</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 38 - Pensions, Bonuses, and Veterans&apos; Relief;     
+            	
+                        LSA, January, 2024, Title 38</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title38</accessId>
+              <titleNumber>38</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title39" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title39/mods.xml">
+         <titleInfo>
+              <title>Title 39 - Postal Service</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title39.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb325</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title39.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb405</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title39</identifier>
+         <identifier type="former granule identifier">24janlsa-40</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 39</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title39</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title39.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title39.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>47</start>
+                   <end>47</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 39 - Postal Service;     
+            	
+                        LSA, January, 2024, Title 39</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title39</accessId>
+              <titleNumber>39</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title40" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title40/mods.xml">
+         <titleInfo>
+              <title>Title 40 - Protection of Environment</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title40.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb326</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title40.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb406</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title40</identifier>
+         <identifier type="former granule identifier">24janlsa-41</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 40</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title40</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title40.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title40.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>10 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>47</start>
+                   <end>56</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 40 - Protection of Environment;     
+            	
+                        LSA, January, 2024, Title 40</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title40</accessId>
+              <titleNumber>40</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title41" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title41/mods.xml">
+         <titleInfo>
+              <title>Title 41 - Public Contracts and Property Management</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title41.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb327</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title41.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb407</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title41</identifier>
+         <identifier type="former granule identifier">24janlsa-42</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 41</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title41</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title41.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title41.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>56</start>
+                   <end>57</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 41 - Public Contracts and Property Management;     
+            	
+                        LSA, January, 2024, Title 41</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title41</accessId>
+              <titleNumber>41</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title42" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title42/mods.xml">
+         <titleInfo>
+              <title>Title 42 - Public Health</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title42.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb328</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title42.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb408</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title42</identifier>
+         <identifier type="former granule identifier">24janlsa-43</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 42</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title42</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title42.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title42.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>5 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>59</start>
+                   <end>63</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 42 - Public Health;     
+            	
+                        LSA, January, 2024, Title 42</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title42</accessId>
+              <titleNumber>42</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title43" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title43/mods.xml">
+         <titleInfo>
+              <title>Title 43 - Public Lands: Interior</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title43.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb329</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title43.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb409</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title43</identifier>
+         <identifier type="former granule identifier">24janlsa-44</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 43</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title43</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title43.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title43.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>63</start>
+                   <end>64</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 43 - Public Lands: Interior;     
+            	
+                        LSA, January, 2024, Title 43</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title43</accessId>
+              <titleNumber>43</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title44" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title44/mods.xml">
+         <titleInfo>
+              <title>Title 44 - Emergency Management and Assistance</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title44.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb32a</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title44.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb40a</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title44</identifier>
+         <identifier type="former granule identifier">24janlsa-45</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 44</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title44</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title44.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title44.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>1 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>64</start>
+                   <end>64</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 44 - Emergency Management and Assistance;     
+            	
+                        LSA, January, 2024, Title 44</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title44</accessId>
+              <titleNumber>44</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title45" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title45/mods.xml">
+         <titleInfo>
+              <title>Title 45 - Public Welfare</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title45.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb32b</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title45.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb40b</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title45</identifier>
+         <identifier type="former granule identifier">24janlsa-46</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 45</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title45</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title45.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title45.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>64</start>
+                   <end>66</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 45 - Public Welfare;     
+            	
+                        LSA, January, 2024, Title 45</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title45</accessId>
+              <titleNumber>45</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title46" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title46/mods.xml">
+         <titleInfo>
+              <title>Title 46 - Shipping</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title46.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb32c</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title46.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb40c</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title46</identifier>
+         <identifier type="former granule identifier">24janlsa-47</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 46</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title46</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title46.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title46.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>66</start>
+                   <end>67</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 46 - Shipping;     
+            	
+                        LSA, January, 2024, Title 46</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title46</accessId>
+              <titleNumber>46</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title47" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title47/mods.xml">
+         <titleInfo>
+              <title>Title 47 - Telecommunication</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title47.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb32d</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title47.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb42f</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title47</identifier>
+         <identifier type="former granule identifier">24janlsa-48</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 47</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title47</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title47.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title47.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>67</start>
+                   <end>69</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 47 - Telecommunication;     
+            	
+                        LSA, January, 2024, Title 47</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title47</accessId>
+              <titleNumber>47</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title48" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title48/mods.xml">
+         <titleInfo>
+              <title>Title 48 - Federal Acquisition Regulations System</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title48.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb32e</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title48.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb430</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title48</identifier>
+         <identifier type="former granule identifier">24janlsa-49</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 48</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title48</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title48.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title48.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>6 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>69</start>
+                   <end>74</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 48 - Federal Acquisition Regulations System;     
+            	
+                        LSA, January, 2024, Title 48</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title48</accessId>
+              <titleNumber>48</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title49" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title49/mods.xml">
+         <titleInfo>
+              <title>Title 49 - Transportation</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title49.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb333</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title49.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb431</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title49</identifier>
+         <identifier type="former granule identifier">24janlsa-50</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 49</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title49</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title49.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title49.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>3 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>74</start>
+                   <end>76</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 49 - Transportation;     
+            	
+                        LSA, January, 2024, Title 49</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title49</accessId>
+              <titleNumber>49</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-title50" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-title50/mods.xml">
+         <titleInfo>
+              <title>Title 50 - Wildlife and Fisheries</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title50.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb334</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title50.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb432</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title50</identifier>
+         <identifier type="former granule identifier">24janlsa-51</identifier>
+         <identifier type="preferred citation">
+                        LSA, January, 2024, Title 50</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-title50</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-title50.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-title50.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>5 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>76</start>
+                   <end>80</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Title 50 - Wildlife and Fisheries;     
+            	
+                        LSA, January, 2024, Title 50</searchTitle>
+              <granuleClass>LSACFRTITLE</granuleClass>
+              <accessId>LSA-2024-01-title50</accessId>
+              <titleNumber>50</titleNumber>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-LSA-2024-01-pg81" xlink:href="https://www.govinfo.gov/metadata/granule/LSA-2024-01/LSA-2024-01-pg81/mods.xml">
+         <titleInfo>
+              <title>Table of Federal Register Issue Pages and Dates</title>
+        </titleInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-pg81.htm">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb335</identifier>
+        </relatedItem>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-pg81.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c4efb433</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-pg81</identifier>
+         <identifier type="former granule identifier">24janlsa-52</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/LSA-2024-01/LSA-2024-01-pg81</url>
+              <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/html/LSA-2024-01-pg81.htm</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/LSA-2024-01/pdf/LSA-2024-01-pg81.pdf</url>
+        </location>
+         <physicalDescription>
+              <extent>2 p.</extent>
+        </physicalDescription>
+         <part type="section">
+              <extent unit="pages">
+                   <start>81</start>
+                   <end>82</end>
+            </extent>
+        </part>
+         <extension>
+              <searchTitle>List of CFR Sections Affected (LSA), January 2024;
+            	Table of Federal Register Issue Pages and Dates;     
+            	
+                        LSA, January, 2024, Title </searchTitle>
+              <granuleClass>BACKMATTER</granuleClass>
+              <accessId>LSA-2024-01-pg81</accessId>
+        </extension>
+    </relatedItem>
+</mods>
