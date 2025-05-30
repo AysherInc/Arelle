@@ -1,2 +1,32 @@
-# Removed trailing whitespace from the entire codebase
-956cfcca1aaa18dd2521172a851da3375abd2978
+name: Update Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-fork:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'AysherIntel'
+          git config --global user.email 'aysherintel@icloud.com'
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/original-owner/original-repo.git
+
+      - name: Fetch upstream changes
+        run: git fetch upstream
+
+      - name: Merge upstream changes
+        run: |
+          git checkout main  # or 'master'
+          git merge upstream/main  # or 'upstream/master'
+        
+      - name: Push changes to fork
+        run: git push origin main  # or 'master'

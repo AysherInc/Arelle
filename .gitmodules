@@ -1,0 +1,3 @@
+[submodule "arelle/locale/Sherfey"]
+	path = arelle/locale/Sherfey
+	url = git@github.com:SherfeyInv/Arelle.git

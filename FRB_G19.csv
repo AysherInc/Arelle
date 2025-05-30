@@ -1,0 +1,16 @@
+"Series Description","Average amount financed for new car loans at finance companies, not seasonally adjusted","Average maturity of new car loans at finance companies, amount of finance weighted, not seasonally adjusted","Average amount financed for new car loans at auto finance companies, not seasonally adjusted (discontinued after January 2011)","Loan-to-value ratio of new car loans at auto finance companies, not seasonally adjusted (discontinued after January 2011)","Weighted-average maturity of new car loans at auto finance companies, not seasonally adjusted (discontinued after January 2011)","New car average finance rate at auto finance companies, not seasonally adjusted (discontinued after January 2011)","Average finance rate of new car loans at finance companies, amount of finance weighted, not seasonally adjusted","Finance rate on consumer installment loans at commercial banks, new autos 48 month loan; not seasonally adjusted","Finance rate on consumer installment loans at commercial banks, new autos 60 month loan; not seasonally adjusted","Finance rate on consumer installment loans at commercial banks, new autos 72 month loan; not seasonally adjusted","Finance rate on personal loans at commercial banks, 24 month loan; not seasonally adjusted","Commercial bank interest rate on credit card plans, all accounts; not seasonally adjusted","Commercial bank interest rate on credit card plans, accounts assessed interest; not seasonally adjusted"
+"Unit:","Currency","Months","Currency","Percent","Months","Percent","Percent","Percent","Percent","Percent","Percent","Percent","Percent"
+"Multiplier:","1","1","1","1","1","1","1","1","1","1","1","1","1"
+"Currency:","USD","USD","USD","USD","USD","USD","USD","USD","USD","NA","USD","USD","USD"
+"Unique Identifier: ","G19/TERMS/DTCTLVENA_N.M","G19/TERMS/DTCTLVENM_N.M","G19/TERMS/H0.DTCTLVNA_N.M","G19/TERMS/H0.DTCTLVNL_N.M","G19/TERMS/H0.DTCTLVNM_N.M","G19/TERMS/H0.RIFLPCFAN_N.M","G19/TERMS/RIELPCFAN_N.M","G19/TERMS/RIFLPBCIANM48_N.M","G19/TERMS/RIFLPBCIANM60_N.M","G19/TERMS/RIFLPBCIANM72_N.M","G19/TERMS/RIFLPBCIPLM24_N.M","G19/TERMS/RIFSPBCICC_N.M","G19/TERMS/RIFSPBCICCI_N.M"
+"Time Period","DTCTLVENA_N.M","DTCTLVENM_N.M","H0.DTCTLVNA_N.M","H0.DTCTLVNL_N.M","H0.DTCTLVNM_N.M","H0.RIFLPCFAN_N.M","RIELPCFAN_N.M","RIFLPBCIANM48_N.M","RIFLPBCIANM60_N.M","RIFLPBCIANM72_N.M","RIFLPBCIPLM24_N.M","RIFSPBCICC_N.M","RIFSPBCICCI_N.M"
+2023-12,38519.27,65.42,,,,,6.98,ND,ND,ND,ND,ND,ND
+2024-01,ND,ND,,,,,ND,ND,ND,ND,ND,ND,ND
+2024-02,ND,ND,,,,,ND,8.57,8.22,8.41,12.49,21.59,22.63
+2024-03,38803.96,66.04,,,,,6.23,ND,ND,ND,ND,ND,ND
+2024-04,ND,ND,,,,,ND,ND,ND,ND,ND,ND,ND
+2024-05,ND,ND,,,,,ND,8.65,8.20,8.32,11.92,21.51,22.78
+2024-06,39349.72,66.40,,,,,6.35,ND,ND,ND,ND,ND,ND
+2024-07,ND,ND,,,,,ND,ND,ND,ND,ND,ND,ND
+2024-08,ND,ND,,,,,ND,8.63,8.40,8.76,12.33,21.76,23.37
+2024-09,39300.35,65.64,,,,,6.11,,,,,,
